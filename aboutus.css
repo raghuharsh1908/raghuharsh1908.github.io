@@ -1,0 +1,58 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border box;
+
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.about{
+    display:flex;
+    text-align: center;
+    width:auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.about .properties{
+    background-color: rgb(6, 73, 73);
+    margin:5px;
+    margin margin-bottom: 50px;
+    width:300px;
+    padding:20 px;
+    color:#fff;
+    position: relative;
+}
+.about .properties p.description{
+    font-size:22px;
+}
+
+.vission .first p.quote1{
+    font-size:30px;
+    text-align: center;
+    color: rgb(53, 65, 58);
+    
+
+}
+.team{
+    display:flex;
+    text-align: center;
+    width:auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.intro{
+    text-align: center;
+    font-size: 20px;
+}
+.team .member h3{
+    color:rgb(53, 65, 58);;
+}

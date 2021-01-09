@@ -1,0 +1,15 @@
+#bg{
+    background-color: lightpink;
+}
+#align{
+    text-align: center;
+}
+#border{
+    border-style: solid;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+#rig{
+    text-align: right;
+}

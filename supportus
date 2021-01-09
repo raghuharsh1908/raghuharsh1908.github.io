@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <font color="DarkBlue" style=text-align:center>
+         <h1>SUPPORT US</h1>
+        </font>
+    </head>
+    <body>
+        <div id="bg">
+     <h1> Kindly fill the following form for being a part of our organisation....</h1> 
+     <hr>
+     
+     <br><br>
+     <h3>
+      <form> <div id="alignit">
+          <div id="border">
+          <div>Full Name :
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+          <input type="text">
+          </div>
+          <br>
+          <div>Mobile Number:
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+              <input type="number">
+          </div>
+          <br>
+          <div>Alternate Mobile Number:
+            &nbsp&nbsp
+              <input type="Number">
+          </div>
+          <br>
+          <div>Email Address:
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+              <input type="text">
+          </div> 
+          <br>
+          <div>Residential Address:
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+              <input type="text">
+          </div>
+          <br>
+          <div>Pincode:
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+             <input type="number">
+          </div>  
+          <br>
+          
+          <div id="align">
+            <input type="submit" value= "SUBMIT ">
+          </div>
+        </div>
+        <br><br>
+    </h3>
+    <div id="rig">
+    <h2><i>We would love your efforts of volunteering !!</i></h2>
+</div>
+</div>
+      </form>
+      </div>
+    </body>
+</html>
